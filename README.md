@@ -3,7 +3,7 @@
 This is the offcial repo for the paper "[Design and Evaluation of a Question-answering System Based on KG-augmented LLMs in K-12 AI Curriculum]".
 
 <div align="center">
-  <img src="fig/OverallArchitecture.png" title="Overall Architecture">
+  <img src="Fig/OverallArchitecture.png" title="Overall Architecture">
 </div>
 
 

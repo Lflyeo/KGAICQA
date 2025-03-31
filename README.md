@@ -2,12 +2,12 @@
 
 This is the offcial repo for the paper "[Design and Evaluation of a Question-answering System Based on KG-augmented LLMs in K-12 AI Curriculum]".
 
-<div align="center" style="margin-bottom: 100px">
+<div align="center" style="padding-bottom: 100px">
   <img src="Fig/Evaluation Process.png" title="Evaluation Process">
 </div>
 
 
-
+###
 It is worth noting that our article is still in the review stage.
 In order to protect our intellectual property, we do not provide a nanny introduction of code implementation,
 only the dataset and core code.

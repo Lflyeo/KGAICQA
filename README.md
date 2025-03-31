@@ -9,16 +9,19 @@ This is the offcial repo for the paper "[Design and Evaluation of a Question-ans
 
 ###
 It is worth noting that our article is still in the review stage.
-In order to protect our intellectual property, we do not provide a nanny introduction of code implementation,
-only the dataset and core code.
-Of course, by reading the implementation details of our codes in the project, you can see how our approach is implemented.
+In order to protect our intellectual property, we do not provide a nanny introduction of system implementation,
+only the dataset and core code of evaluation.
+Of course, by reading our article, you can see how our system is implemented.
 
 ### Requirement
 * Python = 3.11.xx;
 * Pytorch = 2.3.1+cu121 ;
-* You can run it in the notebook on [modelscope](https://modelscope.cn/my/mynotebook) for quick testing purposes.
+* You can run it in the [mynotebook](https://modelscope.cn/my/mynotebook) on modelscope for quick evaluation purposes.
 
 ### Dataset
 We provide the data to make it easy for the reader to reproduce our results. 
 
-- [Dataset](Dataset/aikgs_123.json)
+- [aikgs_123](Dataset/aikgs_123.json)
+
+### Citation
+Waiting for the result of the review.

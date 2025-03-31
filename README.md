@@ -15,7 +15,7 @@ Of course, by reading our article, you can see how our system is implemented.
 
 ### Requirement
 * Python = 3.11.xx;
-* Pytorch = 2.3.1+cu121 ;
+* Pytorch = 2.3.1+cu121;
 * You can run it in the [mynotebook](https://modelscope.cn/my/mynotebook) on modelscope for quick evaluation purposes.
 
 ### Dataset

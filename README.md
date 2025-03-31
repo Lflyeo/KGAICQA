@@ -20,4 +20,4 @@ Of course, by reading the implementation details of our codes in the project, yo
 ### Dataset
 We provide the data to make it easy for the reader to reproduce our results. 
 
-- [Datasets](Dataset/AIC_ThirdGrade123.json)
+- [Dataset](Dataset/AIC_ThirdGrade123.json)

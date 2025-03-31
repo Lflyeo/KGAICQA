@@ -19,7 +19,7 @@ Of course, by reading our article, you can see how our system is implemented.
 * You can run it in the [mynotebook](https://modelscope.cn/my/mynotebook) on modelscope for quick evaluation purposes.
 
 ### Dataset
-We provide the data to make it easy for the reader to reproduce our results. 
+We provide the data to make it easy for the reader to reproduce our evaluation results. 
 
 - [aikgs_123](Dataset/aikgs_123.json)
 

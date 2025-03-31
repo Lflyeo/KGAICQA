@@ -2,7 +2,7 @@
 
 This is the offcial repo for the paper "[Design and Evaluation of a Question-answering System Based on KG-augmented LLMs in K-12 AI Curriculum]".
 
-<div align="center">
+<div align="center" style="margin-bottom: 10px">
   <img src="Fig/Evaluation Process.png" title="Evaluation Process">
 </div>
 
@@ -21,4 +21,4 @@ Of course, by reading the implementation details of our codes in the project, yo
 ### Dataset
 We provide the data to make it easy for the reader to reproduce our results. 
 
-- [Dataset](Dataset/AIC_ThirdGrade123.json)
+- [Dataset](Dataset/aikgs_123.json)

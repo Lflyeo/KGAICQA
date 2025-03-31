@@ -16,7 +16,7 @@ Of course, by reading the implementation details of our codes in the project, yo
 ### Requirement
 * Python = 3.11.xx;
 * Pytorch = 2.3.1+cu121 ;
-* You can see the `requirements.txt` in each dictionary, run `pip install -r requirements.txt` to get environment ready.
+* You can run it in the notebook on [modelscope](https://modelscope.cn/my/mynotebook) for quick testing purposes.
 
 ### Dataset
 We provide the data to make it easy for the reader to reproduce our results. 

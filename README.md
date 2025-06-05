@@ -1,6 +1,6 @@
-## Design and Evaluation of a Question-answering System Based on KG-augmented LLMs in K-12 AI Curriculum
+## Design and Evaluation of a Question-answering System Based on Knowledge Graph-augmented Large Language Models in K-12 Artificial Intelligence Curriculum
 
-This is the offcial repo for the paper "[Design and Evaluation of a Question-answering System Based on KG-augmented LLMs in K-12 AI Curriculum]".
+This is the offcial repo for the paper "[Design and Evaluation of a Question-answering System Based on Knowledge Graph-augmented Large Language Models in K-12 Artificial Intelligence Curriculum]".
 
 <div align="center" style="padding-bottom: 100px">
   <img src="Fig/Evaluation Process.png" title="Evaluation Process">

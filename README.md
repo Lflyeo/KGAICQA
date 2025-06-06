@@ -21,8 +21,8 @@ Of course, by reading our article, you can see how our system is implemented.
 ### Dataset
 We provide the data to make it easy for the reader to reproduce our evaluation results. 
 
-- [aikps_123](Dataset/aikps_123.json)
-- [aikps_1098](Dataset/aikps_1098.json)
+- [AIC_ThirdGrade123](Dataset/AIC_ThirdGrade123.json)
+- [AIC_ThirdGrade1098](Dataset/AIC_ThirdGrade1098.json)
 
 ### Citation
 Waiting for the result of the review.

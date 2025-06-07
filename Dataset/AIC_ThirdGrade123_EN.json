@@ -1,0 +1,863 @@
+[
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence General Knowledge",
+    "Lesson": "Lesson 1",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "Can artificial intelligence make mistakes? How should we deal with these mistakes?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence General Knowledge",
+    "Lesson": "Lesson 1",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "Do you think artificial intelligence can operate according to human will? Why?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence General Knowledge",
+    "Lesson": "Lesson 1",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "If your robot assistant could help you with your homework, would you ask it to assist? Why?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "What do you think are the application values of speech recognition technology?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence General Knowledge",
+    "Lesson": "Lesson 1",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "What conveniences has artificial intelligence technology brought to our learning?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence General Knowledge",
+    "Lesson": "Lesson 1",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "What conveniences has artificial intelligence technology brought to our lives?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence General Knowledge",
+    "Lesson": "Lesson 1",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "Please introduce an artificial intelligence product or technology that you have encountered or used in your daily life."
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence General Knowledge",
+    "Lesson": "Lesson 1",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "Some people say that artificial intelligence will take away human jobs. Do you agree? Tell me your reasons."
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence General Knowledge",
+    "Lesson": "Lesson 1",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "Are you willing to use artificial intelligence technology or products?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence General Knowledge",
+    "Lesson": "Lesson 1",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "Dongdong has developed an artificial intelligence program that bundles malicious apps. Is Dongdong's approach correct? Why?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence General Knowledge",
+    "Lesson": "Lesson 1",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "Can we write some bad programs, such as using foul language or doing bad things?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "Would you feel frustrated if your smart device couldn't understand you?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "What scenarios can speech recognition technology be applied to in daily life?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "What are the devices in daily life that can understand what we are saying?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "What aspects of speech recognition technology can be applied in schools?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "Do you think speech recognition technology can make our lives more convenient? Why?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "How would you feel if the voice recognition assistant couldn't understand you?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 3",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "Have you ever seen facial recognition technology used for safety management in schools or communities? Do you think this is safe? Why?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 3",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "Do you think that while facial recognition technology improves social security, it also brings some potential risks?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson Three",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "What scenes in daily life have you seen facial recognition machines?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 3",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "Do you think facial recognition technology will make our lives more convenient? Why?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson Three",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "Can we collect facial information of others freely? Why?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson Four",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "Are you interested in programming? Why?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson Four",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "Do you think programming can be used to solve some problems in daily life? Please provide an example."
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson Four",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "What do you do when you encounter programming errors?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Intelligent robot development",
+    "Lesson": "Lesson 6",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "What should be noted when using speech recognition technology products in daily life?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "Try to talk about the advantages and disadvantages of speech recognition technology."
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "What do you think are the more widespread applications of speech recognition technology in the future?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "How do you think speech recognition technology can help teachers and classmates in school? Can you come up with some specific examples?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "How do you think this process happens when you use voice input method to send messages to your parents? How does the machine know what you're talking about?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "If you want to make speech recognition systems smarter, what would you do? (How to improve accuracy)"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "Xiaoli is a visually impaired girl. She really hopes to be able to go to school alone, do homework alone, and read books alone in the library with the help of smart devices. Please use speech recognition and other technologies to help Xiaoli. Tell me what problems your designed application has solved and what potential shortcomings it may have."
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "Wu Bo is an elderly person with limited mobility and needs to be taken care of by his family in daily life. Wu Bo has always had a wish to live a more independent life with the help of smart devices, where he can cook, wake up, and go out alone. Please use speech recognition and other technologies to help Wu Bo. Tell me what problems your designed application has solved and what potential shortcomings it may have."
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson Four",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "When you use graphical programming tools to preliminarily complete a program, how do you want to do it better? Can you share your ideas?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson Four",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "If you could program, what would you like a computer to do for you? Can you describe your idea?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson Four",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "What should be done first when writing a simple self introduction program?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson Four",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "Please write a simple self introduction program."
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson five",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "What technology do you think can be used to display what we say on a computer or mobile phone?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Intelligent robot development",
+    "Lesson": "Lesson 6",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "Tell me the steps to build an intelligent desk lamp model using three major modules."
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Intelligent robot development",
+    "Lesson": "Lesson 6",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "What other smart devices do you think controllers can be applied to besides smart desk lamps?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Intelligent robot development",
+    "Lesson": "Lesson 6",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "What other smart devices do you think AI modules can be applied to besides smart desk lamps?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Intelligent robot development",
+    "Lesson": "Lesson 6",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "What other smart devices do you think the color light module can be applied to besides being used in smart desk lamps?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Intelligent robot development",
+    "Lesson": "Lesson 6",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "How to design a program that allows intelligent robots to interact with us through voice? Please briefly explain."
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Intelligent robot development",
+    "Lesson": "Lesson 6",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "Mingmingzi's grandfather lives alone in his hometown. One night, I woke up in the middle of the night to drink water. I fell on the way to turn on the lights. Please use the knowledge you have learned to help Grandpa and explain your thoughts."
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Intelligent robot development",
+    "Lesson": "Lesson 6",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "Besides smart desk lamps, what other artificial intelligence products do you want to design?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence General Knowledge",
+    "Lesson": "Lesson 1",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What is the difference between intelligence and artificial intelligence?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence General Knowledge",
+    "Lesson": "Lesson 1",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "Please briefly explain what artificial intelligence is."
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence General Knowledge",
+    "Lesson": "Lesson 1",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "Is a robot that looks like a human artificial intelligence?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence General Knowledge",
+    "Lesson": "Lesson 1",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "Aunt Zhang uses facial recognition payment when shopping in the supermarket. What kind of artificial intelligence technology is used for facial recognition payment? (A. Speech recognition technology B. Language processing technology C. Image recognition technology)"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence General Knowledge",
+    "Lesson": "Lesson 1",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "The common intelligent voice assistants in our daily lives, such as Xiao Ai and Siri, belong to the application of artificial intelligence in the () field. (Fill in \"Home\", \"Education\", \"Medical\", etc.)"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence General Knowledge",
+    "Lesson": "Lesson 1",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "Do you think using artificial intelligence teaching systems in schools is good or bad? Elaborate on the viewpoint."
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence General Knowledge",
+    "Lesson": "Lesson 1",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What are the benefits and potential issues of analyzing the application of artificial intelligence in the medical field?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What is speech recognition technology?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "How does a mobile phone recognize a person's language?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What are the advantages and disadvantages of speech recognition technology?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "Lenovo dictation process, thinking about the working process and principles of speech recognition."
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson Three",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What is facial recognition technology used for?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 3",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "Can facial recognition technology still recognize a person wearing a mask?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 3",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What is the process of facial recognition?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson Four",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What is a graphical programming language?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson Four",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What is programming?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson Four",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What is a program?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson Four",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "Discuss your understanding of graphical programming."
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson Four",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What is a graphical programming platform?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson Four",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What does \"building blocks\" represent in graphical programming?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson Four",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "There are several functional areas in graphical programming."
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson 5",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What are the advantages of graphical programming languages."
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson 5",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "Is Chinese English speech recognition necessarily accurate?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson five",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What are the reasons that affect the accuracy of Chinese and English speech recognition?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson five",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "In programming, what is the main purpose of \"asking and identifying\" building blocks?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson five",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "How can we make computers recognize our voices? (A. Input through keyboard B. Receive sound through microphone C. Look at us through eyes D. Click with mouse)"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Intelligent robot development",
+    "Lesson": "Lesson 6",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What are the functions of a smart desk lamp?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Intelligent robot development",
+    "Lesson": "Lesson 6",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What is the composition of a smart desk lamp?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Intelligent robot development",
+    "Lesson": "Lesson 6",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "Why can smart desk lamps understand people's words?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Intelligent robot development",
+    "Lesson": "Lesson 6",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What related components are needed to assemble a smart desk lamp?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Intelligent robot development",
+    "Lesson": "Lesson 6",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What is the function of the controller in a smart desk lamp?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Intelligent robot development",
+    "Lesson": "Lesson 6",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What is the role of the AI module in smart desk lamps?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Intelligent robot development",
+    "Lesson": "Lesson 6",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What is the function of the colored light module in smart desk lamps?"
+  },
+  {
+    "Grade": "Third grade first semester",
+    "Unit": "Intelligent robot development",
+    "Lesson": "Lesson 6",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What is the connection between robots and computers?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence General Knowledge",
+    "Lesson": "Lesson 1",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "Why develop artificial intelligence?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence General Knowledge",
+    "Lesson": "Lesson 1",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What are the four major goals for developing artificial intelligence?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence General Knowledge",
+    "Lesson": "Lesson 1",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "When did artificial intelligence first appear?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence General Knowledge",
+    "Lesson": "Lesson 1",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "Is a computer artificial intelligence?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence General Knowledge",
+    "Lesson": "Lesson 1",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "Can artificial intelligence be as creative as humans?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence General Knowledge",
+    "Lesson": "Lesson 1",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "If one day artificial intelligence can have emotions like humans, do you think it will have an impact on society? Why?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "Do you know any intelligent Chinese query and learning tools?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What is OCR technology?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "Artificial intelligence can only work based on pre-set rules set by humans and cannot learn and improve independently. Is this statement correct?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What is the principle of computer guessing word puzzles?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What is the principle and process of image recognition?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "Is artificial intelligence technology perfect? Why?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 2",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "Why do computers sometimes fail to recognize plants?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 3",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "Artificial intelligence knowledge?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 3",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What is speech synthesis technology?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson Three",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "Why develop speech synthesis technology?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 3",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "Introduce common application cases of speech synthesis technology in daily life?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 3",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What is the process of speech synthesis?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson Three",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What is the difference between speech synthesis and recording playback?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson Three",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What are the common speech synthesis software?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 3",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "In the process of speech synthesis, the quality of speech is usually affected by factors such as ____ (speech database, algorithm, etc.) and ____ (speech rate, pitch, etc.)."
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 3",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What are the advantages and disadvantages of speech synthesis technology."
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 3",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "What are the common application cases of speech synthesis technology in daily life?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 3",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "Speech synthesis technology enables computers to interact with humans through natural speech, thus playing an important role in human-computer interaction. Is this statement correct?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 3",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "What work tasks can speech synthesis technology help people accomplish? Please list two items."
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson 3",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "After learning speech synthesis technology, what fields do you think it can be applied to?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson Four",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What is a companion intelligent robot?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson Four",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What is the principle of companion intelligent robots?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson Four",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What are the characteristics and basic functions of companion robots?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson Four",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What technologies do companion intelligent robots typically use to interact with humans?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson Four",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "What are the common companion intelligent robots in daily life?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Applications",
+    "Lesson": "Lesson Four",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "What functions do you want to design a companion intelligent robot with."
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson five",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "How to enable a computer to convert text to speech?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson 5",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "How to develop good programming habits?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson five",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "What are the benefits of learning programming?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson five",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "How to test AI voice function?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson 5",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "How to achieve the function of converting text to speech by writing programs using the \"speak\" building blocks?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Artificial Intelligence Programming",
+    "Lesson": "Lesson five",
+    "Literacy Dimension": "Artificial Intelligence Thinking",
+    "Question": "How to write a program to achieve the goal of \"making the computer repeatedly say the first Tang poem on the dimension of literacy\"?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Intelligent robot development",
+    "Lesson": "Lesson 6",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What is the working principle of smart doors?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Intelligent robot development",
+    "Lesson": "Lesson 6",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What components need to be connected when building a smart door model?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Intelligent robot development",
+    "Lesson": "Lesson 6",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What is the function of the motor in the smart door?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Intelligent robot development",
+    "Lesson": "Lesson 6",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "How can smart doors achieve automatic door opening and closing function through facial recognition technology?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Intelligent robot development",
+    "Lesson": "Lesson 6",
+    "Literacy Dimension": "Artificial intelligence knowledge",
+    "Question": "What role does the controller play in the smart door system?"
+  },
+  {
+    "Grade": "Third Grade Volume 2",
+    "Unit": "Intelligent robot development",
+    "Lesson": "Lesson 6",
+    "Literacy Dimension": "Artificial intelligence emotion",
+    "Question": "What are the applications of smart doors in daily life?"
+  }
+]

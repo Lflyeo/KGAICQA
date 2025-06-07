@@ -21,13 +21,13 @@ Of course, by reading our article, you can see how our system is implemented.
 ### Dataset
 We provide the data to make it easy for the reader to reproduce our evaluation results. 
 
-EN:
-- [AIC_ThirdGrade123_EN](Dataset/AIC_ThirdGrade123_EN.json)
-- [AIC_ThirdGrade1098_EN](Dataset/AIC_ThirdGrade1098_EN.json)
+en:
+- [AIC_ThirdGrade123_en](Dataset/AIC_ThirdGrade123_en.json)
+- [AIC_ThirdGrade1098_en](Dataset/AIC_ThirdGrade1098_en.json)
 
-ZH:
-- [AIC_ThirdGrade123_ZH](Dataset/AIC_ThirdGrade123_ZH.json)
-- [AIC_ThirdGrade1098_ZH](Dataset/AIC_ThirdGrade1098_ZH.json)
+zh:
+- [AIC_ThirdGrade123_zh](Dataset/AIC_ThirdGrade123_zh.json)
+- [AIC_ThirdGrade1098_zh](Dataset/AIC_ThirdGrade1098_zh.json)
 
 ### Citation
 Waiting for the result of the review.

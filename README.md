@@ -17,8 +17,8 @@ Of course, by reading our article, you can see how our system is implemented.
 * Pytorch = 2.3.1+cu121;
 * You can run it in the [mynotebook](https://modelscope.cn/my/mynotebook) on modelscope for quick evaluation purposes.
 
-### AI Curriculum Knowledge Graph
-We provide the constructed AI Curriculum Knowledge Graph to enable readers to easily reproduce our evaluation results and utilize it for other research. Including 165 nodes, 459 relationships.
+### AI Curriculum Knowledge Graph 
+We provide an AI course knowledge map constructed based on the AI textbooks for Grade 3, [Upper](Guangzhou_K-12_AI_Curriculum_Textbooks/Third_Grade_Upper.pdf) and [Lower](Guangzhou_K-12_AI_Curriculum_Textbooks/Third_Grade_Lower.pdf) in Guangzhou, enabling readers to easily replicate our evaluation results and apply them to other research. Including 165 nodes, 459 relationships.
 - [AICKG_csv](AI_Curriculum_Knowledge_Graph/AICKG.csv)
 - [AICKG_json](AI_Curriculum_Knowledge_Graph/AICKG.json)
 <div align="center" style="padding-bottom: 20px">

@@ -18,7 +18,7 @@ Of course, by reading our article, you can see how our system is implemented.
 * You can run it in the [mynotebook](https://modelscope.cn/my/mynotebook) on modelscope for quick evaluation purposes.
 
 ### AI Curriculum Knowledge Graph
-We provide the constructed AI Curriculum Knowledge Graph to enable readers to easily reproduce our evaluation results and utilize it for other research.
+We provide the constructed AI Curriculum Knowledge Graph to enable readers to easily reproduce our evaluation results and utilize it for other research. Including 165 nodes, 459 relationships.
 - [AICKG_csv](AI_Curriculum_Knowledge_Graph/AICKG.csv)
 - [AICKG_json](AI_Curriculum_Knowledge_Graph/AICKG.json)
 <div align="center" style="padding-bottom: 20px">

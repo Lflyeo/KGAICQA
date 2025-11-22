@@ -2,10 +2,9 @@
 
 This is the offcial repo for the paper "[Design and Evaluation of a Question-answering System Based on Knowledge Graph-augmented Large Language Models in K-12 Artificial Intelligence Curriculum]".
 
-<div align="center" style="padding-bottom: 100px">
+<div align="center" style="padding-bottom: 20px">
   <img src="Fig/Evaluation Process.png" title="Evaluation Process">
 </div>
-
 
 ###
 It is worth noting that our article is still in the review stage.
@@ -20,12 +19,11 @@ Of course, by reading our article, you can see how our system is implemented.
 
 ### AI Curriculum Knowledge Graph
 We provide the constructed AI Curriculum Knowledge Graph to enable readers to easily reproduce our evaluation results and utilize it for other research.
-<div align="center" style="padding-bottom: 100px">
+- [AICKG_csv](AI_Curriculum_Knowledge_Graph/AICKG.csv)
+- [AICKG_json](AI_Curriculum_Knowledge_Graph/AICKG.json)
+<div align="center" style="padding-bottom: 20px">
   <img src="AI_Curriculum_Knowledge_Graph/AICKG.png" title="Evaluation Process">
 </div>
-
-- [AICKG](AI_Curriculum_Knowledge_Graph/AICKG.csv)
-- [AICKG](AI_Curriculum_Knowledge_Graph/AICKG.json)
 
 ### Dataset
 We provide the data to make it easy for the reader to reproduce our evaluation results. 

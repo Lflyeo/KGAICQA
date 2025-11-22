@@ -18,6 +18,15 @@ Of course, by reading our article, you can see how our system is implemented.
 * Pytorch = 2.3.1+cu121;
 * You can run it in the [mynotebook](https://modelscope.cn/my/mynotebook) on modelscope for quick evaluation purposes.
 
+### AI Curriculum Knowledge Graph
+We provide the constructed AI Curriculum Knowledge Graph to enable readers to easily reproduce our evaluation results and utilize it for other research.
+<div align="center" style="padding-bottom: 100px">
+  <svg src="AI Curriculum Knowledge Graph/AICKG.svg" title="Evaluation Process">
+</div>
+
+- [CSV](AI Curriculum Knowledge Graph/AICKG.csv)
+- [JSON](AI Curriculum Knowledge Graph/AICKG.json)
+
 ### Dataset
 We provide the data to make it easy for the reader to reproduce our evaluation results. 
 

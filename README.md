@@ -27,11 +27,11 @@ We invited two experts in educational technology to extract knowledge from the A
 
 Subsequently, the curriculum ontology is imported into the Neo4j graph database and represented as a KG. Including 730 nodes, 2114 relationships.
 
-- [AICKG_csv](AI_Curriculum_Knowledge_Graph/AICKG (2).csv)
-- [AICKG_json](AI_Curriculum_Knowledge_Graph/AICKG (2).json)
+- [AICKG_csv](AI_Curriculum_Knowledge_Graph/AICKG.csv)
+- [AICKG_json](AI_Curriculum_Knowledge_Graph/AICKG.json)
 
 <div align="center" style="padding-bottom: 20px">
-  <img src="AI_Curriculum_Knowledge_Graph/AICKG (2).png" title="Evaluation Process">
+  <img src="AI_Curriculum_Knowledge_Graph/AICKG.png" title="Evaluation Process">
 </div>
 
 ### Dataset

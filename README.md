@@ -25,7 +25,7 @@ We invited two experts in educational technology to extract knowledge from the A
   <img src="Fig/ontology.jpg" title="Entities, relationship types, and their definitions within the ontology">
 </div>
 
-Subsequently, the curriculum ontology is imported into the Neo4j graph database and represented as a KG. Including 165 nodes, 459 relationships.
+Subsequently, the curriculum ontology is imported into the Neo4j graph database and represented as a KG. Including 730 nodes, 2114 relationships.
 
 - [AICKG_csv](AI_Curriculum_Knowledge_Graph/AICKG.csv)
 - [AICKG_json](AI_Curriculum_Knowledge_Graph/AICKG.json)

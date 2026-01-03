@@ -3,6 +3,10 @@
 This is the offcial repo for the paper "[Design and Evaluation of a Question-answering System Based on Knowledge Graph-augmented Large Language Models in K-12 Artificial Intelligence Curriculum]".
 
 <div align="center" style="padding-bottom: 20px">
+  <img src="Fig/Fig 1.jpg" title="Evaluation Process">
+</div>
+
+<div align="center" style="padding-bottom: 20px">
   <img src="Fig/Evaluation Process.png" title="Evaluation Process">
 </div>
 
@@ -19,7 +23,7 @@ Of course, by reading our article, you can see how our system is implemented.
 
 ### AI Curriculum Knowledge Graph 
 
-We invited two experts in educational technology to extract knowledge from the AI textbooks for Grade 3, [Upper](Guangzhou_K-12_AI_Curriculum_Textbooks/Third_Grade_Upper.pdf) and [Lower](Guangzhou_K-12_AI_Curriculum_Textbooks/Third_Grade_Lower.pdf) in Guangzhou (Kappa=0.812). Following the seven-step methodology  in Protégé software, we constructed the ontology model and ultimately established a KG ontology for the AI curriculum, comprising eight categories of entities and five types of semantic relations. 
+We invited two experts in educational technology to extract knowledge from the AI textbooks in Guangzhou (Kappa=0.812). Following the seven-step methodology  in Protégé software, we constructed the ontology model and ultimately established a KG ontology for the AI curriculum, comprising eight categories of entities and five types of semantic relations. 
 
 <div align="center" style="padding-bottom: 20px">
   <img src="Fig/ontology.jpg" title="Entities, relationship types, and their definitions within the ontology">
